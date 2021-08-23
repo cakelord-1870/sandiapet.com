@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://sandiapet.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://sandiapet.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://sandiapet.com/collections/new-mexico-products.atom"/>
+  <title>Sandia Pet Products</title>
+  <updated>2017-12-08T12:13:08-05:00</updated>
+  <author>
+    <name>Sandia Pet Products</name>
+  </author>
+  <entry>
+    <id>https://sandiapet.com/products/683256315951</id>
+    <published>2017-12-08T12:13:08-05:00</published>
+    <updated>2017-12-08T12:13:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/adjustable-harness-with-bell-ferret-nm"/>
+    <title>Adjustable Harness with Bell - Ferret NM</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Small_harness_0187dd44-aa78-48e3-bfbf-7a554d17f606.jpg?v=1524505793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong>Width:</strong><br></span><span>1/2 Inch Wide<br></span></p>
+<p><span><strong>Size (Adjustable):</strong><br>One Size:  Neck 5.5"-7.5"  Girth 6"-8.5"<br></span></p>
+<p><span style="background-color: #ffff00;">Choose pattern to see NM and Lobos pattern choices.<br>Choose quantities here or update them in your cart.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT TO SHOW</s:tag>
+    <s:variant>
+      <id>https://sandiapet.com/products/683256315951</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/683252908079</id>
+    <published>2017-12-08T12:13:08-05:00</published>
+    <updated>2017-12-08T12:13:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/adjustable-collar-with-bell-ferret-nm"/>
+    <title>Adjustable Collar with Bell - Ferret NM</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Ferret_collar_adjustable_3-8_inch_38d7fdb5-5085-4f75-8c20-3732ce8be9d3.jpg?v=1524505698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong>Width:</strong><br></span><span>1/2 Inch Wide <br></span></p>
+<p><span><strong>Size (Adjustable):</strong><br></span>6"-8"</p>
+<meta charset="utf-8">
+<p><span style="background-color: #ffff00;"><span>Choose pattern to see NM and Lobos pattern choices.</span><br><span>Choose quantities here or update them in your cart.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT TO SHOW</s:tag>
+    <s:variant>
+      <id>https://sandiapet.com/products/683252908079</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/683250974767</id>
+    <published>2017-12-08T12:13:08-05:00</published>
+    <updated>2017-12-08T12:13:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/adjustable-safety-collar-cat-nm"/>
+    <title>Adjustable Safety Collar - Cat NM</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Cat_safety_collar_3-8_inch_a85af558-c970-4cb7-82e8-d6ebcc5809d4.jpg?v=1524505643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong>Width:</strong><br></span><span>1/2 Inch Wide<br></span></p>
+<p><span><strong>Select Size (Adjustable):</strong><br>10"-14"<br></span>8"-12"<br>6"-10"</p>
+<meta charset="utf-8">
+<p><span style="background-color: #ffff00;"><span>Select size and choose pattern to see NM and Lobos pattern choices.</span><br><span>Choose quantities here or update them in your cart.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT TO SHOW</s:tag>
+    <s:variant>
+      <id>https://sandiapet.com/products/683250974767</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/683242324015</id>
+    <published>2017-12-08T12:13:08-05:00</published>
+    <updated>2017-12-08T12:13:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/martingale-collar-over-the-head-puppy-nm"/>
+    <title>Martingale Collar (Over the Head) - Puppy NM</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Over_the_head_Martingale_collar_c442ac79-d1e5-4def-9f72-1ea23a9ddffa.jpg?v=1524505356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong>Width:</strong><br></span><span>1/2 Inch Wide - best for large and medium puppies<br></span></p>
+<p><span><strong>Size (Adjustable):</strong><br></span>8"-12"</p>
+<meta charset="utf-8">
+<p><span style="background-color: #ffff00;"><span>Choose pattern to see NM or Lobos pattern choices.</span><br><span>Choose quantities here or update them in your cart.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT TO SHOW</s:tag>
+    <s:variant>
+      <id>https://sandiapet.com/products/683242324015</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/683240685615</id>
+    <published>2017-12-08T12:13:08-05:00</published>
+    <updated>2017-12-08T12:13:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/adjustable-step-n-harness-puppy-nm"/>
+    <title>Adjustable Step-N-Harness - Puppy NM</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Adjustable_step-in_harness_e764fab3-7270-4946-90f0-a7aefd984a6c.jpg?v=1524505309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong>Width:</strong><br></span><span>1/2 Inch Wide<br></span></p>
+<p><span><strong>Size (Adjustable):</strong><br>10"-14"</span></p>
+<p><span style="background-color: #ffff00;">Choose pattern to see NM and Lobos pattern choices.<br>Choose quantities here or update them in your cart.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT TO SHOW</s:tag>
+    <s:variant>
+      <id>https://sandiapet.com/products/683240685615</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/683237703727</id>
+    <published>2017-12-08T12:13:08-05:00</published>
+    <updated>2017-12-08T12:13:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/adjustable-harness-puppy-nm"/>
+    <title>Adjustable Harness - Puppy NM</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Adjustable_harness_c00aab88-e358-4821-a9eb-f9195701764c.jpg?v=1524505195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong>Width:</strong><br></span><span>1/2 Inch Wide<br></span></p>
+<p><span><strong>Size (Adjustable):</strong><br>10"-14"</span></p>
+<p><span style="background-color: #ffff00;">Choose pattern to see NM and Lobos pattern choices.<br>Choose quantities here or update them in your cart.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT TO SHOW</s:tag>
+    <s:variant>
+      <id>https://sandiapet.com/products/683237703727</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/683236655151</id>
+    <published>2017-12-08T12:13:08-05:00</published>
+    <updated>2017-12-08T12:13:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/martingale-collar-side-release-puppy-nm"/>
+    <title>Martingale Collar (Side Release) - Puppy NM</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Adjustable_Martingale_collar_dcecb5f8-18ba-43f1-925f-98e134b4b6fe.jpg?v=1524505155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong>Width:</strong><br></span><span>1/2 Inch Wide - best for large and medium puppies<br></span></p>
+<p><span><strong>Size (Adjustable):</strong><br></span>8"-12"</p>
+<meta charset="utf-8">
+<p><span style="background-color: #ffff00;"><span>Select pattern to see NM or Lobos pattern choices.</span><br><span>Choose quantities here or update them in your cart.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT TO SHOW</s:tag>
+    <s:variant>
+      <id>https://sandiapet.com/products/683236655151</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/683234426927</id>
+    <published>2017-12-08T12:13:08-05:00</published>
+    <updated>2017-12-08T12:13:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/adjustable-collar-puppy-nm"/>
+    <title>Adjustable Collar - Puppy NM</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Puppy_collar_3-8_inch_25d6dcb9-705c-4c56-80f5-3dbd9865deb2.jpg?v=1524505099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong>Select Width:</strong><br></span><span>1/2 Inch Wide - best for large and medium puppies<br></span><span><br></span><span><strong>Select Size (Adjustable):<br></strong></span>6"-10"<br>8"-12"<br><span>10"-14"</span></p>
+<meta charset="utf-8">
+<p><span style="background-color: #ffff00;"><span>Select width and size first in order to see NM or Lobos pattern choices.</span><br><span>Choose quantities here or update them in your cart.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT TO SHOW</s:tag>
+    <s:variant>
+      <id>https://sandiapet.com/products/683234426927</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/654927986735</id>
+    <published>2017-12-08T12:13:08-05:00</published>
+    <updated>2017-12-08T12:13:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/water-bowls-nm"/>
+    <title>Water Bowls NM</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/water_bowl_plain_black_b8fbde1c-eabb-4fc0-aa8f-4fd93626c10f.jpg?v=1523563389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Designer Fold and Carry Travel Water Bowl</strong> <br> These are ideal for hikers, campers or people who like to travel with their pets. Conveniently allows pet owners to give their pets fresh water as needed. The snap on the side of the bowl allows it to be easily attached to a backpack. The elastic on the side allows it to be folded into a smaller carrying size. The pets can have a matching collar, leash, harness and water bowl in most cases. Please check availability of matching items.</p>
+<p>MATERIAL: 600 Denier, coated fabric to hold water, lining on inside is black, trim on plain colors is black</p>
+<p>LARGE Dimensions: mouth 8.5", base 9.5", depth 4.25", approx. 84 oz.<br>MEDIUM Dimensions: mouth 6", base 7.5", depth 3.5", approx. 48 oz.<br>SMALL Dimensions: mouth 5", base 6.25", depth 3", approx. 18 oz.<br>PETITE Dimensions: mouth 4.5", base 5.25", depth 2", approx. 10 oz.</p>
+<meta charset="utf-8">
+<p><span style="background-color: #ffff00;"><span>Select water bowl size first in order to see color and pattern choices.</span><br><span>Choose quantities here or update them in your cart.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT TO SHOW</s:tag>
+    <s:variant>
+      <id>https://sandiapet.com/products/654927986735</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/654636482607</id>
+    <published>2017-12-08T12:13:08-05:00</published>
+    <updated>2017-12-08T12:13:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/adjustable-step-n-harness-dog-nm"/>
+    <title>Adjustable Step-N-Harness - Dog NM</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Adjustable_step-in_harness_e06d80ba-9838-4e00-aa11-0fc049ae2ad9.jpg?v=1523556992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong>Select Width:</strong><br></span><span>1 Inch Wide - best for large and medium dogs<br>5/8 Inch Wide - best for small dogs</span></p>
+<p><span><strong>Select Size (Adjustable):</strong><br>20"-28"<br></span>28"-36"</p>
+<p><span style="background-color: #ffff00;">Select width and length first in order to see color and pattern choices.<br>Choose quantities here or update them in your cart.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT TO SHOW</s:tag>
+    <s:variant>
+      <id>https://sandiapet.com/products/654636482607</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/654633631791</id>
+    <published>2017-12-08T12:13:08-05:00</published>
+    <updated>2017-12-08T12:13:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/adjustable-harness-dog-nm"/>
+    <title>Adjustable Harness - Dog NM</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Adjustable_harness_92842fee-e48d-4786-911f-b3e3b7e5a779.jpg?v=1523556914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong>Select Width:</strong><br></span><span>1 Inch Wide - best for large and medium dogs<br>5/8 Inch Wide - best for small dogs</span></p>
+<p><span><strong>Select Size (Adjustable):</strong><br>20"-28"<br></span>28"-36"</p>
+<p><span style="background-color: #ffff00;">Select width and length first in order to see color and pattern choices.<br>Choose quantities here or update them in your cart.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT TO SHOW</s:tag>
+    <s:variant>
+      <id>https://sandiapet.com/products/654633631791</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/654631108655</id>
+    <published>2017-12-08T12:13:08-05:00</published>
+    <updated>2017-12-08T12:13:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/martingale-collar-side-release-dog-nm"/>
+    <title>Martingale Collar (Side Release) - Dog NM</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Adjustable_Martingale_collar_08a84a8f-4126-48ec-8e98-9c71ea3f2a62.jpg?v=1523556827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><strong>Select Width:</strong><br></span><span>1 Inch Wide - best for large and medium dogs<br>5/8 Inch Wide - best for small dogs</span></p>
+<p><span><strong>Select Size (Adjustable):</strong><br>12"-16" <br></span>14"-18"</p>
+<p><span style="background-color: #ffff00;">Select width and size first in order to see color and pattern choices.<br>Choose quantities here or update them in your cart.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT TO SHOW</s:tag>
+    <s:variant>
+      <id>https://sandiapet.com/products/654631108655</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/654630256687</id>
+    <published>2017-12-08T12:13:08-05:00</published>
+    <updated>2017-12-08T12:13:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/martingale-collar-over-the-head-dog-nm"/>
+    <title>Martingale Collar (Over the Head) - Dog NM</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Over_the_head_Martingale_collar_1927d9cc-6b85-4867-80fd-615ea38f64ed.jpg?v=1523556795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><strong>Select Width:</strong><br></span><span>1 Inch Wide - best for large and medium dogs<br>5/8 Inch Wide - best for small dogs</span></p>
+<p><span><strong>Select Size (Adjustable):</strong><br>12"-16" <br></span>14"-18"</p>
+<p><span style="background-color: #ffff00;">Select width and size first in order to see color and pattern choices.<br>Choose quantities here or update them in your cart.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT TO SHOW</s:tag>
+    <s:variant>
+      <id>https://sandiapet.com/products/654630256687</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/654566326319</id>
+    <published>2017-12-08T12:13:08-05:00</published>
+    <updated>2017-12-08T12:13:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/adjustable-collar-metal-buckle-dog-nm"/>
+    <title>Adjustable Collar Metal Buckle - Dog NM</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Adjustable_metal_collar_dbf64d17-44e0-4ca1-9b25-f95c6ba3d663.jpg?v=1523555176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><strong>Select Width:</strong><br></span><span>1 Inch Wide - best for large and medium dogs<br>5/8 Inch Wide - best for small dogs</span></p>
+<p><span><strong>Select Length (Adjustable):</strong><br>18"-26" - Large Dog<br></span>14"-20" - Medium/Large Dog<br>12"-18" - Medium/Large Dog<br>10"-16" - Small Dog</p>
+<p><span style="background-color: #ffff00;">Select width and length first in order to see color and pattern choices.<br>Choose quantities here or update them in your cart.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT TO SHOW</s:tag>
+    <s:variant>
+      <id>https://sandiapet.com/products/654566326319</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/654381482031</id>
+    <published>2017-12-08T12:13:08-05:00</published>
+    <updated>2017-12-08T12:13:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/adjustable-collar-dog-nm"/>
+    <title>Adjustable Collar - Dog NM</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Adjustable_collar_679b51ea-32e4-4474-81fa-761a875fe83e.jpg?v=1523549738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><strong>Select Width:</strong><br></span><span>1 Inch Wide - best for large and medium dogs<br>5/8 Inch Wide - best for small dogs</span></p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><span><strong>Select Size (Adjustable):</strong><br>18"-26" - Large Dog<br></span>14"-20" - Medium/Large Dog<br>12"-18" - Medium/Large Dog<br>10"-16" - Small Dog</p>
+<p><span style="background-color: #ffff00;">Select width and length first in order to see color and pattern choices.<br>Choose quantities here or update them in your cart.</span><br><br><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NM</s:tag>
+    <s:tag>PRODUCT TO SHOW</s:tag>
+    <s:variant>
+      <id>https://sandiapet.com/products/654381482031</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://sandiapet.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://sandiapet.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://sandiapet.com/collections/leashes.atom"/>
+  <title>Sandia Pet Products</title>
+  <updated>2020-09-22T18:48:53-04:00</updated>
+  <author>
+    <name>Sandia Pet Products</name>
+  </author>
+  <entry>
+    <id>https://sandiapet.com/products/4751476981807</id>
+    <published>2020-09-22T18:48:53-04:00</published>
+    <updated>2020-09-22T18:48:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/adjustable-swivel-coupler-dog-puppy-ferret-all-widths"/>
+    <title>Adjustable Swivel Coupler - Dog, Puppy &amp; Ferret (All Widths)</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Adjustablecoupler.jpg?v=1600814934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.08 - 10.45
+            <a href="https://sandiapet.com/products/adjustable-swivel-coupler-dog-puppy-ferret-all-widths">(41 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">1" Coupler is available in 24" adjustable. (Dogs) - $10.45</span><br data-mce-fragment="1"><span data-mce-fragment="1">5/8" Coupler is available in 24" adjustable. (Dogs) <meta charset="utf-8">- $9.57</span><br data-mce-fragment="1"><span data-mce-fragment="1">1/2" Coupler is available in 18" adjustable. (Puppies &amp; Ferrets) <meta charset="utf-8">- $9.08</span><br data-mce-fragment="1"><span data-mce-fragment="1">3/8" Coupler is available in 18" adjustable. (</span><span data-mce-fragment="1">Puppies &amp; Ferrets</span><span data-mce-fragment="1">) <meta charset="utf-8">- $9.08</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>1&quot; / Royal Blue</title>
+      <s:price currency="USD">10.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>1&quot; / Red</title>
+      <s:price currency="USD">10.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>1&quot; / Neon Orange</title>
+      <s:price currency="USD">10.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>1&quot; / Neon Green</title>
+      <s:price currency="USD">10.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>1&quot; / Hunter Green</title>
+      <s:price currency="USD">10.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>1&quot; / Turquoise</title>
+      <s:price currency="USD">10.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>1&quot; / Navy</title>
+      <s:price currency="USD">10.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>1&quot; / Lavender</title>
+      <s:price currency="USD">10.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>1&quot; / Purple</title>
+      <s:price currency="USD">10.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>1&quot; / Fuschia</title>
+      <s:price currency="USD">10.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>1&quot; / Neon Pink</title>
+      <s:price currency="USD">10.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>1&quot; / Light Pink</title>
+      <s:price currency="USD">10.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>1&quot; / Tan</title>
+      <s:price currency="USD">10.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>1&quot; / Black</title>
+      <s:price currency="USD">10.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>5/8&quot; / Royal Blue</title>
+      <s:price currency="USD">9.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>5/8&quot; / Red</title>
+      <s:price currency="USD">9.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>5/8&quot; / Neon Orange</title>
+      <s:price currency="USD">9.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>5/8&quot; / Neon Green</title>
+      <s:price currency="USD">9.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>5/8&quot; / Hunter Green</title>
+      <s:price currency="USD">9.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>5/8&quot; / Turquoise</title>
+      <s:price currency="USD">9.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>5/8&quot; / Navy</title>
+      <s:price currency="USD">9.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>5/8&quot; / Lavender</title>
+      <s:price currency="USD">9.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>5/8&quot; / Purple</title>
+      <s:price currency="USD">9.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>5/8&quot; / Fuschia</title>
+      <s:price currency="USD">9.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>5/8&quot; / Neon Pink</title>
+      <s:price currency="USD">9.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>5/8&quot; / Light Pink</title>
+      <s:price currency="USD">9.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>5/8&quot; / Tan</title>
+      <s:price currency="USD">9.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>5/8&quot; / Black</title>
+      <s:price currency="USD">9.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>3/8&quot; / Royal Blue</title>
+      <s:price currency="USD">9.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>3/8&quot; / Red</title>
+      <s:price currency="USD">9.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>3/8&quot; / Neon Orange</title>
+      <s:price currency="USD">9.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>3/8&quot; / Neon Green</title>
+      <s:price currency="USD">9.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>3/8&quot; / Hunter Green</title>
+      <s:price currency="USD">9.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>3/8&quot; / Turquoise</title>
+      <s:price currency="USD">9.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>3/8&quot; / Navy</title>
+      <s:price currency="USD">9.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>3/8&quot; / Purple</title>
+      <s:price currency="USD">9.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>3/8&quot; / Fuschia</title>
+      <s:price currency="USD">9.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>3/8&quot; / Neon Pink</title>
+      <s:price currency="USD">9.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>3/8&quot; / Light Pink</title>
+      <s:price currency="USD">9.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>3/8&quot; / Tan</title>
+      <s:price currency="USD">9.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4751476981807</id>
+      <title>3/8&quot; / Black</title>
+      <s:price currency="USD">9.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/4726208331823</id>
+    <published>2020-09-02T19:01:34-04:00</published>
+    <updated>2020-09-02T19:01:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/leash-3-8-width"/>
+    <title>Leash - 3/8&quot; width</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Leash_8403d4d0-f0c4-43d5-9679-4175ef752b1d.jpg?v=1600817156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.08 - 3.47
+            <a href="https://sandiapet.com/products/leash-3-8-width">(26 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">3/8 Inch Wide - best for small cats, small puppies and ferrets (only available in solid colors)</span><br></p>
+<p><meta charset="utf-8"><span>Small cat, puppy and ferret leashes are available in a wide variety of colors in either 4 foot or 6 foot lengths. Match the color of the leash to the collars for increased sales. Change colors and patterns often to keep displays fresh and attractive. </span></p>
+<p>4 foot / 3/8" wide leash - solid color: $3.08<br><span data-mce-fragment="1">6 foot<meta charset="utf-8"> / <meta charset="utf-8">3/8" wide leash - solid color: $3.47</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>4 feet / Royal Blue</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>4 feet / Red</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>4 feet / Neon Orange</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>4 feet / Neon Green</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>4 feet / Hunter Green</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>4 feet / Turquoise</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>4 feet / Navy</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>4 feet / Purple</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>4 feet / Fuschia</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>4 feet / Neon Pink</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>4 feet / Light Pink</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>4 feet / Tan</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>4 feet / Black</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>6 feet / Royal Blue</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>6 feet / Red</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>6 feet / Neon Orange</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>6 feet / Neon Green</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>6 feet / Hunter Green</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>6 feet / Turquoise</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>6 feet / Navy</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>6 feet / Purple</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>6 feet / Fuschia</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>6 feet / Neon Pink</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>6 feet / Light Pink</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>6 feet / Tan</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726208331823</id>
+      <title>6 feet / Black</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/4726189293615</id>
+    <published>2020-09-02T18:35:24-04:00</published>
+    <updated>2020-09-02T18:35:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/leash-1-2-width"/>
+    <title>Leash - 1/2&quot; width</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Leash_e6fae378-bfc5-47af-9327-2e42acd31611.jpg?v=1599086812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.08 - 8.42
+            <a href="https://sandiapet.com/products/leash-1-2-width">(58 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">1/2 Inch Wide - best for cats and puppies</span><br></p>
+<p><meta charset="utf-8"><span>Dog and cat leashes are available in a wide variety of colors and patterns in either 4 foot or 6 foot lengths. Match the color and pattern of the leash to the dog and cat collars for increased sales. Change colors and patterns often to keep displays fresh and attractive. </span></p>
+<p>4 foot / 1/2" wide leash - solid color: $3.08<br><meta charset="utf-8"><span data-mce-fragment="1">4 foot<meta charset="utf-8"> / <meta charset="utf-8">1/2" wide leash - patterned: $6.99</span><br><span data-mce-fragment="1">6 foot<meta charset="utf-8"> / <meta charset="utf-8">1/2" wide leash - solid color: $3.47</span><br><span data-mce-fragment="1">6 foot<meta charset="utf-8"> / <meta charset="utf-8">1/2" wide leash - patterned: $8.42</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / Royal Blue</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / Red</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / Neon Orange</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / Neon Green</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / Hunter Green</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / Turquoise</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / Navy</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / Lavender</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / Purple</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / Fuschia</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / Neon Pink</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / Light Pink</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / Tan</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / Black</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / 12060 Red Hearts on Red</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / 12084 Horseshoes on Black</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / 12635 TriStripes on Royal Blue</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / 12701 Red Ship Ahoy on Red</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / 12862 Lei on Fuchsia</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / 12865 Pink Freesia on Light Pink</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / 12946 Romeo on Red</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / 12966 Pink Mod on Turquoise</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / 121037 Crazy Cat on Neon Pink</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / 121047 Autumn Butterflies on Black</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / 121114 Pink Marching Turtles on Neon Green</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / 121146 Lazy Daisy on Neon Orange</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / 121149 Puppy Paws on Black</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / 121268 Bone Steps on Red</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>4 feet / 121275 Jennifer on Fuchsia</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / Royal Blue</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / Red</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / Neon Orange</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / Neon Green</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / Hunter Green</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / Turquoise</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / Navy</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / Lavender</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / Purple</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / Fuschia</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / Neon Pink</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / Light Pink</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / Tan</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / Black</title>
+      <s:price currency="USD">3.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / 12060 Red Hearts on Red</title>
+      <s:price currency="USD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / 12084 Horseshoes on Black</title>
+      <s:price currency="USD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / 12635 TriStripes on Royal Blue</title>
+      <s:price currency="USD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / 12701 Red Ship Ahoy on Red</title>
+      <s:price currency="USD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / 12862 Lei on Fuchsia</title>
+      <s:price currency="USD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / 12865 Pink Freesia on Light Pink</title>
+      <s:price currency="USD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / 12946 Romeo on Red</title>
+      <s:price currency="USD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / 12966 Pink Mod on Turquoise</title>
+      <s:price currency="USD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / 121037 Crazy Cat on Neon Pink</title>
+      <s:price currency="USD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / 121047 Autumn Butterflies on Black</title>
+      <s:price currency="USD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / 121114 Pink Marching Turtles on Neon Green</title>
+      <s:price currency="USD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / 121146 Lazy Daisy on Neon Orange</title>
+      <s:price currency="USD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / 121149 Puppy Paws on Black</title>
+      <s:price currency="USD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / 121268 Bone Steps on Red</title>
+      <s:price currency="USD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726189293615</id>
+      <title>6 feet / 121275 Jennifer on Fuchsia</title>
+      <s:price currency="USD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/4726162849839</id>
+    <published>2020-09-02T18:03:43-04:00</published>
+    <updated>2020-09-02T18:03:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/copy-of-leash-5-8-width"/>
+    <title>Leash - 5/8&quot; width</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Leash_7a4c66c1-4980-4139-850a-5b786c261076.jpg?v=1599085935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.80 - 9.24
+            <a href="https://sandiapet.com/products/copy-of-leash-5-8-width">(54 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">5/8 Inch Wide - best for small dogs</span><br></p>
+<p>Dog leashes are available in a wide variety of colors and patterns in either 4 foot or 6 foot lengths. Match the color and pattern of the leash to the dog collars for increased sales. Change colors and patterns often to keep displays fresh and attractive.</p>
+<p>4 foot / 5/8" wide leash - solid color: $3.80<br><meta charset="utf-8"><span data-mce-fragment="1">4 foot<meta charset="utf-8"> / <meta charset="utf-8">5/8" wide leash - patterned: $7.87</span><br><span data-mce-fragment="1">6 foot<meta charset="utf-8"> / <meta charset="utf-8">5/8" wide leash - solid color: $4.57</span><br><span data-mce-fragment="1">6 foot<meta charset="utf-8"> / 5/8" wide leash - patterned: $9.24</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / Royal Blue</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / Red</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / Neon Orange</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / Neon Green</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / Hunter Green</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / Turquoise</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / Navy</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / Lavender</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / Purple</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / Fuschia</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / Neon Pink</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / Light Pink</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / Tan</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / Black</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / 58352 Red Magnolia on Black</title>
+      <s:price currency="USD">7.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / 58606 Black Chevron on Black</title>
+      <s:price currency="USD">7.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / 581003 Prestwick on Red</title>
+      <s:price currency="USD">7.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / 581026 Copperhead on Tan</title>
+      <s:price currency="USD">7.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / 581107 Tweed Plaid on Tan</title>
+      <s:price currency="USD">7.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / 581118 Sail Boats on Royal Blue</title>
+      <s:price currency="USD">7.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / 581123 Cubic on Turquoise</title>
+      <s:price currency="USD">7.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / 581126 Swiss Chocolate Chip on Brown</title>
+      <s:price currency="USD">7.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / 581202 Melancholy Zebra on Black</title>
+      <s:price currency="USD">7.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / 581240 Cibola on Navy</title>
+      <s:price currency="USD">7.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / 581244 Mora on Turquoise</title>
+      <s:price currency="USD">7.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / 581270 Tartan Paw Bones on Red</title>
+      <s:price currency="USD">7.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>4 feet / 581317 Red, White &amp; Blue Paws on Royal Blue</title>
+      <s:price currency="USD">7.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / Royal Blue</title>
+      <s:price currency="USD">4.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / Red</title>
+      <s:price currency="USD">4.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / Neon Orange</title>
+      <s:price currency="USD">4.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / Neon Green</title>
+      <s:price currency="USD">4.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / Hunter Green</title>
+      <s:price currency="USD">4.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / Turquoise</title>
+      <s:price currency="USD">4.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / Navy</title>
+      <s:price currency="USD">4.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / Lavender</title>
+      <s:price currency="USD">4.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / Purple</title>
+      <s:price currency="USD">4.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / Fuschia</title>
+      <s:price currency="USD">4.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / Neon Pink</title>
+      <s:price currency="USD">4.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / Light Pink</title>
+      <s:price currency="USD">4.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / Tan</title>
+      <s:price currency="USD">4.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / Black</title>
+      <s:price currency="USD">4.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / 58352 Red Magnolia on Black</title>
+      <s:price currency="USD">9.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / 58606 Black Chevron on Black</title>
+      <s:price currency="USD">9.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / 581003 Prestwick on Red</title>
+      <s:price currency="USD">9.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / 581026 Copperhead on Tan</title>
+      <s:price currency="USD">9.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / 581107 Tweed Plaid on Tan</title>
+      <s:price currency="USD">9.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / 581118 Sail Boats on Royal Blue</title>
+      <s:price currency="USD">9.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / 581123 Cubic on Turquoise</title>
+      <s:price currency="USD">9.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / 581126 Swiss Chocolate Chip on Brown</title>
+      <s:price currency="USD">9.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / 581202 Melancholy Zebra on Black</title>
+      <s:price currency="USD">9.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / 581240 Cibola on Navy</title>
+      <s:price currency="USD">9.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / 581244 Mora on Turquoise</title>
+      <s:price currency="USD">9.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / 581270 Tartan Paw Bones on Red</title>
+      <s:price currency="USD">9.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4726162849839</id>
+      <title>6 feet / 581317 Red, White &amp; Blue Paws on Royal Blue</title>
+      <s:price currency="USD">9.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sandiapet.com/products/4724185464879</id>
+    <published>2020-09-01T17:42:07-04:00</published>
+    <updated>2020-09-01T17:42:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sandiapet.com/products/leash-test"/>
+    <title>Leash - 1&quot; width</title>
+    <s:type></s:type>
+    <s:vendor>Sandia Pet Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2151/8381/products/Leash.jpg?v=1599082746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Pet Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.66 - 10.34
+            <a href="https://sandiapet.com/products/leash-test">(58 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8">1 Inch Wide - best for large and medium dogs</p>
+<p>Dog leashes are available in a wide variety of colors and patterns in either 4 foot or 6 foot lengths. Match the color and pattern of the leash to the dog collars for increased sales. Change colors and patterns often to keep displays fresh and attractive.</p>
+<p>4 foot / 1" wide leash - solid color: $6.66<br><meta charset="utf-8"><span data-mce-fragment="1">4 foot<meta charset="utf-8"> / 1" wide leash - patterned: $8.97</span><br><span data-mce-fragment="1">6 foot<meta charset="utf-8"> / 1" wide leash - solid color: $7.98</span><br><span data-mce-fragment="1">6 foot<meta charset="utf-8"> / 1" wide leash - patterned: $10.34</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / Royal Blue</title>
+      <s:price currency="USD">6.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / Red</title>
+      <s:price currency="USD">6.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / Neon Orange</title>
+      <s:price currency="USD">6.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / Neon Green</title>
+      <s:price currency="USD">6.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / Hunter Green</title>
+      <s:price currency="USD">6.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / Turquoise</title>
+      <s:price currency="USD">6.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / Navy</title>
+      <s:price currency="USD">6.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / Lavender</title>
+      <s:price currency="USD">6.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / Purple</title>
+      <s:price currency="USD">6.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / Fuschia</title>
+      <s:price currency="USD">6.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / Neon Pink</title>
+      <s:price currency="USD">6.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / Light Pink</title>
+      <s:price currency="USD">6.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / Tan</title>
+      <s:price currency="USD">6.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / Black</title>
+      <s:price currency="USD">6.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / 10749 Jaipur #2 on Fuchsia</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / 10225 Sunburst on Royal Blue</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / 10413 Coral Wood Ducks on Tan</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / 10448 Estancia on Red</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / 10456 Lavender Kachina on Lavender</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / 10703 Red Daisy on Red</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / 10759 Acoma on Fuchsia</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / 110143 Two Hearts on Royal Blue</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / 110244 Persian Teal Paisley on Teal</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / 110257 Turquoise Kachina on Turquoise</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / 110329 Multi - Tri Shells on Purple</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / 110340 White Terrier on Red</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / 110683 Cinnabar on Red</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / 110750 Lucky Dog #1 on Black</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>4 feet / 110751 Timber on Black</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / Royal Blue</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / Red</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / Neon Orange</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / Neon Green</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / Hunter Green</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / Turquoise</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / Navy</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / Lavender</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / Purple</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / Fuschia</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / Neon Pink</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / Light Pink</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / Tan</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / Black</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / 10749 Jaipur #2 on Fuchsia</title>
+      <s:price currency="USD">10.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / 10225 Sunburst on Royal Blue</title>
+      <s:price currency="USD">10.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / 10413 Coral Wood Ducks on Tan</title>
+      <s:price currency="USD">10.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / 10448 Estancia on Red</title>
+      <s:price currency="USD">10.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / 10456 Lavender Kachina on Lavender</title>
+      <s:price currency="USD">10.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / 10703 Red Daisy on Red</title>
+      <s:price currency="USD">10.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / 10759 Acoma on Fuchsia</title>
+      <s:price currency="USD">10.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / 110143 Two Hearts on Royal Blue</title>
+      <s:price currency="USD">10.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / 110244 Persian Teal Paisley on Teal</title>
+      <s:price currency="USD">10.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / 110257 Turquoise Kachina on Turquoise</title>
+      <s:price currency="USD">10.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / 110329 Multi - Tri Shells on Purple</title>
+      <s:price currency="USD">10.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / 110340 White Terrier on Red</title>
+      <s:price currency="USD">10.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / 110683 Cinnabar on Red</title>
+      <s:price currency="USD">10.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / 110750 Lucky Dog #1 on Black</title>
+      <s:price currency="USD">10.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sandiapet.com/products/4724185464879</id>
+      <title>6 feet / 110751 Timber on Black</title>
+      <s:price currency="USD">10.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
